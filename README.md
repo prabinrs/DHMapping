@@ -1,2 +1,2 @@
 # DHMapping
-This is Try to Map the effor of earthquake relife by Dhulikhel Hospital 
+Mapping the Relife Effort During Nepal Earthquake 2015By Dhulikhel Hospital- Kathamandu University Hospital
