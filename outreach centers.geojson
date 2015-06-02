@@ -13,8 +13,6 @@
             },
             "properties": {
                 "name": "Bahunepati Health Center ",
-                "styleUrl": "#icon-503-F9F7A6",
-                "styleHash": "-3a6fc4a8",
                 "Ward": "2.0",
                 "VDC/Municipality": "Basbari",
                 "District": "Sindhupalchok",
@@ -40,8 +38,6 @@
             },
             "properties": {
                 "name": "Baluwa Health Center",
-                "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-64db7e28",
                 "Ward": "11.0",
                 "VDC/Municipality": "Panchkhal",
                 "District": "Kavre",
@@ -66,8 +62,6 @@
             },
             "properties": {
                 "name": "Bolde Fediche Health Center ",
-                "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-64db7e27",
                 "Ward": "9.0",
                 "VDC/Municipality": "Bolde",
                 "District": "Kavre",
@@ -118,8 +112,6 @@
             },
             "properties": {
                 "name": "Dapcha Health Center ",
-                "styleUrl": "#icon-503-FFFFFF",
-                "styleHash": "15dfccb8",
                 "Ward": "3.0",
                 "VDC/Municipality": "Khanalthok",
                 "District": "Kavre",
@@ -144,8 +136,6 @@
             },
             "properties": {
                 "name": "Dhungkharka Health Center ",
-                "styleUrl": "#icon-503-7CCFA9",
-                "styleHash": "42131318",
                 "Ward": "2.0",
                 "VDC/Municipality": "Dhungkharka",
                 "District": "Kavre",
@@ -170,8 +160,6 @@
             },
             "properties": {
                 "name": "Godamchaur Health Center ",
-                "styleUrl": "#icon-503-FFFFFF",
-                "styleHash": "15dfccb8",
                 "Ward": "1.0",
                 "VDC/Municipality": "Godamchaur",
                 "District": "Lalitpur",
@@ -196,8 +184,6 @@
             },
             "properties": {
                 "name": "Hindi Health Center",
-                "styleUrl": "#icon-503-E6EEA3",
-                "styleHash": "-55cebde8",
                 "Ward": "4.0",
                 "VDC/Municipality": "Phulpingkatti",
                 "District": "Sindhupalchok",
@@ -222,8 +208,6 @@
             },
             "properties": {
                 "name": "Kattikedeurali Health Center",
-                "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-64db7e28",
                 "Ward": "6.0",
                 "VDC/Municipality": "Kattikedeurali",
                 "District": "Kavre",
@@ -248,8 +232,6 @@
             },
             "properties": {
                 "name": "Kirnetar Health Center ",
-                "styleUrl": "#icon-503-FFFFFF",
-                "styleHash": "15dfccb8",
                 "Ward": "4.0",
                 "VDC/Municipality": "Sahare",
                 "District": "Dolakha",
@@ -274,8 +256,6 @@
             },
             "properties": {
                 "name": "Manekharka Health Center ",
-                "styleUrl": "#icon-503-F9F7A6",
-                "styleHash": "-3a6fc4a8",
                 "Ward": "6.0",
                 "VDC/Municipality": "Thangpalkot",
                 "District": "Sindhupalchok",
@@ -300,8 +280,6 @@
             },
             "properties": {
                 "name": "Thansing Health center ",
-                "styleUrl": "#icon-503-3F5BA9",
-                "styleHash": "2e5c9538",
                 "Ward": "7.0",
                 "VDC/Municipality": "Thangsing",
                 "District": "Nuwakot",
@@ -326,8 +304,6 @@
             },
             "properties": {
                 "name": "Dhulikhel Hospital",
-                "styleUrl": "#icon-503-9FC3FF",
-                "styleHash": "cf66d58",
                 "Ward": "",
                 "VDC/Municipality": "Dhulikhel",
                 "District": "Kavre",
@@ -352,8 +328,6 @@
             },
             "properties": {
                 "name": "Yangrima School Clinic",
-                "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-64db7e28",
                 "Ward": "",
                 "VDC/Municipality": "Sermathang",
                 "District": "Sindhupalchok",
@@ -378,8 +352,6 @@
             },
             "properties": {
                 "name": "Salambhu Health Center",
-                "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-64db7e28",
                 "Ward": "3.0",
                 "VDC/Municipality": "Majhipheda",
                 "District": "Kavre",
