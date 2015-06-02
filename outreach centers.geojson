@@ -15,7 +15,7 @@
                 "name": "Bahunepati Health Center ",
                 "styleUrl": "#icon-503-F9F7A6",
                 "styleHash": "-3a6fc4a8",
-                "description": "<img src=\"http://dhulikhelhospital.org/images/earthquake/gallery/damage/outreach/IMAG1223.jpg\" height=\"200\" width=\"auto\" /><br><br>Ward: 2<br>VDC/Municipality: Basbari<br>District: Sindhupalchok<br>Houshold: 1102<br>Population: 5056<br>Male: 2395<br>Female: 2661<br>Damages Outreach: Old Building Collapsed, New Building Cracked<br>x: 85.57<br>y: 27.7883",
+                "description": ""
                 "Ward": "2.0",
                 "VDC/Municipality": "Basbari",
                 "District": "Sindhupalchok",
@@ -43,7 +43,7 @@
                 "name": "Baluwa Health Center",
                 "styleUrl": "#icon-503-F8971B",
                 "styleHash": "-64db7e28",
-                "description": "Ward: 11<br>VDC/Municipality: Panchkhal<br>District: Kavre<br>Houshold: 1292<br>Population: 6023<br>Male: 2943<br>Female: 3080<br>Damages Outreach: Crack in the parts of the Building<br>x: 85.630798<br>y: 27.619944",
+                "description": " "
                 "Ward": "11.0",
                 "VDC/Municipality": "Panchkhal",
                 "District": "Kavre",
@@ -69,8 +69,8 @@
             "properties": {
                 "name": "Bolde Fediche Health Center ",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-64db7e28",
-                "description": "Ward: 9<br>VDC/Municipality: Bolde<br>District: Kavre<br>Houshold: 470<br>Population: 2041<br>Male: 916<br>Female: 1125<br>Damages Outreach: Crack in the parts of the Building<br>x: 85.763458<br>y: 27.531622",
+                "styleHash": "-64db7e27",
+                "description": ""
                 "Ward": "9.0",
                 "VDC/Municipality": "Bolde",
                 "District": "Kavre",
@@ -97,7 +97,7 @@
                 "name": "Chattere Deurali Health Center ",
                 "styleUrl": "#icon-503-F8971B",
                 "styleHash": "-64db7e28",
-                "description": "Ward: 1<br>VDC/Municipality: Chattere<br>District: Dhading<br>Houshold: 1655<br>Population: 7687<br>Male: 3665<br>Female: 4022<br>Damages Outreach: Crack in the parts of the Building<br>x: 85.191071<br>y: 27.723072",
+                "description": ""
                 "Ward": "1.0",
                 "VDC/Municipality": "Chattere",
                 "District": "Dhading",
@@ -124,7 +124,7 @@
                 "name": "Dapcha Health Center ",
                 "styleUrl": "#icon-503-FFFFFF",
                 "styleHash": "15dfccb8",
-                "description": "Ward: 3<br>VDC/Municipality: Khanalthok<br>District: Kavre<br>Houshold: <br>Population: <br>Male: <br>Female: 0<br>Damages Outreach: <br>x: 85.647896<br>y: 27.529902",
+                "description": ""
                 "Ward": "3.0",
                 "VDC/Municipality": "Khanalthok",
                 "District": "Kavre",
@@ -151,7 +151,7 @@
                 "name": "Dhungkharka Health Center ",
                 "styleUrl": "#icon-503-7CCFA9",
                 "styleHash": "42131318",
-                "description": "Ward: 2<br>VDC/Municipality: Dhungkharka<br>District: Kavre<br>Houshold: 1035<br>Population: 4916<br>Male: 2260<br>Female: 2656<br>Damages Outreach: Old Building Collapsed<br>x: 85.494316<br>y: 27.525019",
+                "description": " "
                 "Ward": "2.0",
                 "VDC/Municipality": "Dhungkharka",
                 "District": "Kavre",
@@ -178,7 +178,7 @@
                 "name": "Godamchaur Health Center ",
                 "styleUrl": "#icon-503-FFFFFF",
                 "styleHash": "15dfccb8",
-                "description": "Ward: 1<br>VDC/Municipality: Godamchaur<br>District: Lalitpur<br>Houshold: 1094<br>Population: 4914<br>Male: 2367<br>Female: 2547<br>Damages Outreach: <br>x: 85.370667<br>y: 27.607588",
+                "description": " "
                 "Ward": "1.0",
                 "VDC/Municipality": "Godamchaur",
                 "District": "Lalitpur",
@@ -205,7 +205,7 @@
                 "name": "Hindi Health Center",
                 "styleUrl": "#icon-503-E6EEA3",
                 "styleHash": "-55cebde8",
-                "description": "Ward: 4<br>VDC/Municipality: Phulpingkatti<br>District: Sindhupalchok<br>Houshold: <br>Population: <br>Male: <br>Female: <br>Damages Outreach: Whole Building Collapsed<br>x: 85.941925<br>y: 27.93891",
+                "description": ""
                 "Ward": "4.0",
                 "VDC/Municipality": "Phulpingkatti",
                 "District": "Sindhupalchok",
@@ -232,7 +232,7 @@
                 "name": "Kattikedeurali Health Center",
                 "styleUrl": "#icon-503-F8971B",
                 "styleHash": "-64db7e28",
-                "description": "Ward: 6<br>VDC/Municipality: Kattikedeurali<br>District: Kavre<br>Houshold: 675<br>Population: 3061<br>Male: 1445<br>Female: 1616<br>Damages Outreach: Crack in the parts of the Building<br>x: 85.803406<br>y: 27.55603",
+                "description":""
                 "Ward": "6.0",
                 "VDC/Municipality": "Kattikedeurali",
                 "District": "Kavre",
@@ -259,7 +259,7 @@
                 "name": "Kirnetar Health Center ",
                 "styleUrl": "#icon-503-FFFFFF",
                 "styleHash": "15dfccb8",
-                "description": "Ward: 4<br>VDC/Municipality: Sahare<br>District: Dolakha<br>Houshold: <br>Population: <br>Male: <br>Female: 0<br>Damages Outreach: <br>x: 86.107796<br>y: 27.486578",
+                "description": " "
                 "Ward": "4.0",
                 "VDC/Municipality": "Sahare",
                 "District": "Dolakha",
@@ -286,7 +286,7 @@
                 "name": "Manekharka Health Center ",
                 "styleUrl": "#icon-503-F9F7A6",
                 "styleHash": "-3a6fc4a8",
-                "description": "Ward: 6<br>VDC/Municipality: Thangpalkot<br>District: Sindhupalchok<br>Houshold: 653<br>Population: 2635<br>Male: 1274<br>Female: 1361<br>Damages Outreach: Old Building Collapsed, New Building Cracked<br>x: 85.654907<br>y: 27.941071",
+                "description": ""
                 "Ward": "6.0",
                 "VDC/Municipality": "Thangpalkot",
                 "District": "Sindhupalchok",
@@ -313,7 +313,7 @@
                 "name": "Thansing Health center ",
                 "styleUrl": "#icon-503-3F5BA9",
                 "styleHash": "2e5c9538",
-                "description": "Ward: 7<br>VDC/Municipality: Thangsing<br>District: Nuwakot<br>Houshold: 1388<br>Population: 6126<br>Male: 2899<br>Female: 3227<br>Damages Outreach: Whole Building Cracked<br>x: 85.270003<br>y: 27.870005",
+                "description":""
                 "Ward": "7.0",
                 "VDC/Municipality": "Thangsing",
                 "District": "Nuwakot",
@@ -331,8 +331,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.540924,
-                    27.620274,
+                    85.5477047,
+                    27.6164327,
                     0
                 ]
             },
@@ -340,7 +340,7 @@
                 "name": "Dhulikhel Hospital",
                 "styleUrl": "#icon-503-9FC3FF",
                 "styleHash": "cf66d58",
-                "description": "Ward: <br>VDC/Municipality: Dhulikhel<br>District: Kavre<br>Houshold: <br>Population: <br>Male: <br>Female: <br>Damages Outreach: Few Buildings are Damaged badly<br>x: 85.540924<br>y: 27.620274",
+                "description":""
                 "Ward": "",
                 "VDC/Municipality": "Dhulikhel",
                 "District": "Kavre",
@@ -349,8 +349,8 @@
                 "Male": "",
                 "Female": "",
                 "Damages Outreach": "Few Buildings are Damaged badly",
-                "x": "85.540924",
-                "y": "27.620274"
+                "x": "85.5477047",
+                "y": "27.6164327"
             }
         },
         {
@@ -367,7 +367,7 @@
                 "name": "Yangrima School Clinic",
                 "styleUrl": "#icon-503-F8971B",
                 "styleHash": "-64db7e28",
-                "description": "Ward: <br>VDC/Municipality: Sermathang<br>District: Sindhupalchok<br>Houshold: <br>Population: <br>Male: <br>Female: <br>Damages Outreach: Crack in the parts of the Building<br>x: 85.599289<br>y: 27.933527",
+                "description":" "
                 "Ward": "",
                 "VDC/Municipality": "Sermathang",
                 "District": "Sindhupalchok",
@@ -394,7 +394,7 @@
                 "name": "Salambhu Health Center",
                 "styleUrl": "#icon-503-F8971B",
                 "styleHash": "-64db7e28",
-                "description": "Ward: 3<br>VDC/Municipality: Majhipheda<br>District: Kavre<br>Houshold: 627<br>Population: 2669<br>Male: 1225<br>Female: 1444<br>Damages Outreach: Crack in the parts of the Building<br>x: 85.8403<br>y: 27.6132",
+                "description": ""
                 "Ward": "3.0",
                 "VDC/Municipality": "Majhipheda",
                 "District": "Kavre",
